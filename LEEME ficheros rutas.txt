@@ -1,0 +1,12 @@
+2/10/2024- Sustituidos los ficheros de rutas  por carretera del año 2022.
+
+Modificaciones: 
+- Conexión de geometrías desconectadas
+- Depuración en el cálculo de número de viajes para un 6% de los tramos que supone una variación de menos de 1% en el 94% de los casos respecto al dato de la versión anterior.
+
+18/10/2024- Sustituidos los ficheros de calidad, informacion_tramo, od_ruta y tramo_ruta del año 2022.
+
+Modificaciones: 
+- Adición de etapas al extranjero, que antes se descartaban.
+- Adición de las columnas inter GAU e intra GAU en los ficheros de información de tramo.
+
